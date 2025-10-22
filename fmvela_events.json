@@ -34,5 +34,11 @@
     "nome": "Meetup Maitê",
     "data": "2025-10-10",
     "local": "Belo Horizonte, MG Escolinha"
+  },
+  {
+    "id": 7,
+    "nome": "Meetup Priscila",
+    "data": "2025-10-12",
+    "local": "Belo Horizonte, MG"
   }
 ]
