@@ -1,0 +1,26 @@
+[
+  {
+    "id": 1,
+    "nome": "Conferência de Tecnologia 2024",
+    "data": "2024-12-15",
+    "local": "São Paulo, SP"
+  },
+  {
+    "id": 2,
+    "nome": "Workshop de React Avançado",
+    "data": "2024-11-22",
+    "local": "Online"
+  },
+  {
+    "id": 3,
+    "nome": "Hackathon de Inovação",
+    "data": "2025-01-10",
+    "local": "Rio de Janeiro, RJ"
+  },
+  {
+    "id": 4,
+    "nome": "Meetup de Desenvolvedores",
+    "data": "2024-10-30",
+    "local": "Belo Horizonte, MG"
+  }
+]
