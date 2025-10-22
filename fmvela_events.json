@@ -22,5 +22,11 @@
     "nome": "Meetup de Desenvolvedores",
     "data": "2024-10-30",
     "local": "Belo Horizonte, MG"
+  },
+    {
+    "id": 5,
+    "nome": "Meetup Mackilem",
+    "data": "2025-10-20",
+    "local": "Belo Horizonte, MG"
   }
 ]
