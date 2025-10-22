@@ -8,7 +8,7 @@
   {
     "id": 2,
     "nome": "Workshop de React Avançado",
-    "data": "2024-11-22",
+    "data": "2025-11-22",
     "local": "Online"
   },
   {
@@ -20,7 +20,7 @@
   {
     "id": 4,
     "nome": "Meetup de Desenvolvedores",
-    "data": "2024-10-30",
+    "data": "2025-10-30",
     "local": "Belo Horizonte, MG"
   },
   {
@@ -37,7 +37,7 @@
   },
   {
     "id": 7,
-    "nome": "Meetup Priscila",
+    "nome": "Meetup Priscila Van der Laan",
     "data": "2025-10-12",
     "local": "Belo Horizonte, MG"
   }
