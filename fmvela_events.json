@@ -3,42 +3,32 @@
     "id": 1,
     "nome": "Conferência de Tecnologia 2025",
     "data": "2025-12-15",
-    "local": "São Paulo, SP"
+    "local": "São Paulo, SP",
+    "slug": "conferencia-tecnologia",
+    "descricao": "Melhor conferência de tecnologia e IA do mundo"
   },
   {
     "id": 2,
     "nome": "Workshop de React Avançado",
     "data": "2025-11-22",
-    "local": "Online"
+    "local": "Online",
+    "slug": "workshop-react",
+    "descricao": "Saiba tudo sobre o react avançado"
   },
   {
     "id": 3,
     "nome": "Hackathon de Inovação",
     "data": "2025-01-10",
-    "local": "Rio de Janeiro, RJ"
+    "local": "Rio de Janeiro, RJ",
+    "slug": "hackathon-inovacao",
+    "descricao": "Treine sua habilidades!"
   },
   {
     "id": 4,
     "nome": "Meetup de Desenvolvedores",
     "data": "2025-10-30",
-    "local": "Belo Horizonte, MG"
-  },
-  {
-    "id": 5,
-    "nome": "Meetup Priscila e Mackilem",
-    "data": "2025-11-27",
-    "local": "Juiz de Fora, MG"
-  },
-  {
-    "id": 6,
-    "nome": "Meetup Maitê",
-    "data": "2025-10-10",
-    "local": "Belo Horizonte, MG Escolinha"
-  },
-  {
-    "id": 7,
-    "nome": "Meetup Priscila Van der Laan",
-    "data": "2025-10-12",
-    "local": "Belo Horizonte, MG"
+    "local": "Belo Horizonte, MG",
+    "slug": "meetup-devop",
+    "descricao": "Encontro de desenvolvedores"
   }
 ]
